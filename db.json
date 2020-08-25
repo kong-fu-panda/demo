@@ -2,7 +2,7 @@
   "PartnerResultsBO":{
     "resultCount":11,
     "listings":[
-      0:{
+       {
           "id":807714592,
           "makeName":"Honda",
           "modelName":"Accord",
@@ -32,7 +32,7 @@
           "vdpUrl":"https://www.cars.com/vehicledetail/detail/807714592/overview/",
           "mobileVdpUrl":"http://m.cars.com/m/for-sale/index.html#vdp?paId=807714592"
       },
-      1:{
+       {
           "id":820924017,
           "makeName":"Honda",
           "modelName":"Accord",
@@ -62,7 +62,7 @@
           "vdpUrl":"https://www.cars.com/vehicledetail/detail/820924017/overview/",
           "mobileVdpUrl":"http://m.cars.com/m/for-sale/index.html#vdp?paId=820924017"
       },
-      2:{
+       {
           "id":818250216,
           "makeName":"Honda",
           "modelName":"Accord",
@@ -92,7 +92,7 @@
           "vdpUrl":"https://www.cars.com/vehicledetail/detail/818250216/overview/",
           "mobileVdpUrl":"http://m.cars.com/m/for-sale/index.html#vdp?paId=818250216"
       },
-      3:{
+       {
           "id":815684081,
           "makeName":"Honda",
           "modelName":"Accord",
@@ -122,7 +122,7 @@
           "vdpUrl":"https://www.cars.com/vehicledetail/detail/815684081/overview/",
           "mobileVdpUrl":"http://m.cars.com/m/for-sale/index.html#vdp?paId=815684081"
       },
-      4:{
+       {
           "id":807471288,
           "makeName":"Honda",
           "modelName":"Accord",
@@ -152,7 +152,7 @@
           "vdpUrl":"https://www.cars.com/vehicledetail/detail/807471288/overview/",
           "mobileVdpUrl":"http://m.cars.com/m/for-sale/index.html#vdp?paId=807471288"
       },
-      5:{
+       {
           "id":817097417,
           "makeName":"Honda",
           "modelName":"Accord",
@@ -182,7 +182,7 @@
           "vdpUrl":"https://www.cars.com/vehicledetail/detail/817097417/overview/",
           "mobileVdpUrl":"http://m.cars.com/m/for-sale/index.html#vdp?paId=817097417"
       },
-      6:{
+       {
           "id":820493592,
           "makeName":"Honda",
           "modelName":"Accord",
@@ -212,7 +212,7 @@
           "vdpUrl":"https://www.cars.com/vehicledetail/detail/820493592/overview/",
           "mobileVdpUrl":"http://m.cars.com/m/for-sale/index.html#vdp?paId=820493592"
       },
-      7:{
+       {
           "id":820768100,
           "makeName":"Honda",
           "modelName":"Accord",
@@ -242,7 +242,7 @@
           "vdpUrl":"https://www.cars.com/vehicledetail/detail/820768100/overview/",
           "mobileVdpUrl":"http://m.cars.com/m/for-sale/index.html#vdp?paId=820768100"
       },
-      8:{
+       {
           "id":818596556,
           "makeName":"Honda",
           "modelName":"Accord",
@@ -272,7 +272,7 @@
           "vdpUrl":"https://www.cars.com/vehicledetail/detail/818596556/overview/",
           "mobileVdpUrl":"http://m.cars.com/m/for-sale/index.html#vdp?paId=818596556"
       },
-      9:{
+       {
           "id":817636487,
           "makeName":"Honda",
           "modelName":"Accord",
